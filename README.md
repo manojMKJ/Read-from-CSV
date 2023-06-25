@@ -16,8 +16,8 @@ Increase the maximum number of rows to display the entire DataFrame.
 
 ## PROGRAM:
 ````
-#DEVELOPED BY: Raja R
-#REGISTER NO: 22004914
+#DEVELOPED BY: Manoj kumar G
+#REGISTER NO: 22005014
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
